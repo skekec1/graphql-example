@@ -1,0 +1,61 @@
+{
+  "posts": [],
+  "authors": [
+    {
+      "id": "262c45a5-5e14-4d29-a2ff-7b9be62033ef",
+      "name": "Leonard Fischer",
+      "age": 31
+    },
+    {
+      "id": "5d887f12-a02f-4612-9390-e35a4f401b5a",
+      "name": "Leonard Fischer",
+      "age": 31,
+      "skills": [
+        "ab4fbe91-4d06-4f18-850b-363b092f3bf6"
+      ]
+    },
+    {
+      "id": "b1f6c291-d8e6-4fa2-977e-fae676bd8939",
+      "name": "Leonard Fischer",
+      "age": 31,
+      "skills": [
+        "ab4fbe91-4d06-4f18-850b-363b092f3bf6",
+        "fe89dff0-f082-424f-9c5a-611cf436ea9e"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "ab4fbe91-4d06-4f18-850b-363b092f3bf6",
+      "title": "CQRS",
+      "buzzWords": [
+        "Command Query",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "b3f7a54e-659a-4ccb-8b0d-e659ca466411",
+      "title": "GraphQL",
+      "buzzWords": [
+        "Data Driven API",
+        "API Design"
+      ]
+    },
+    {
+      "id": "fe89dff0-f082-424f-9c5a-611cf436ea9e",
+      "title": "Object oriented programming",
+      "buzzWords": [
+        "Paradigms",
+        "Software design"
+      ]
+    },
+    {
+      "id": "d17c96e7-96d0-4e04-8beb-351780338eff",
+      "title": "Virtual Reality",
+      "buzzWords": [
+        "Experimental",
+        "Innovation"
+      ]
+    }
+  ]
+}
