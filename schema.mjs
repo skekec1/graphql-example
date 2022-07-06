@@ -2,7 +2,7 @@ import { buildSchema } from 'graphql';
 
 const schema = buildSchema(`
   type Query {
-    hello(name: String!): Int
+    hello(name: String!): String!
     getSkills: [Skill]
     getAuthors: [Author]
     getPosts: [Post]
